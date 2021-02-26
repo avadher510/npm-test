@@ -1,6 +1,6 @@
 {
   "name": "av-text-display",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "dist/AVTextDisplay.umd.js",
   "unpkg": "dist/AVTextDisplay.umd.min.js",
   "files": [
